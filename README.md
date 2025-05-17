@@ -4,3 +4,9 @@
 
 - <b>Cat and dogs classification </b>
   - [Cats vs Dogs](https://github.com/blacckbeard4/CatsnDogs/tree/main)
+
+- <b>Cat and dogs classification </b>
+  - [Optiver Trading](https://github.com/blacckbeard4/Optiver_Trading-/tree/main)
+
+
+
