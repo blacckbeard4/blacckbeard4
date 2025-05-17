@@ -8,5 +8,9 @@
 - <b>Cat and dogs classification </b>
   - [Optiver Trading](https://github.com/blacckbeard4/Optiver_Trading-/tree/main)
 
+- <b>Cat and dogs classification </b>
+  - [Impact of NIL on NCAA players](https://github.com/blacckbeard4/NcaaDid)
+
+
 
 
