@@ -19,6 +19,9 @@
 - <b>fremium company </b>
   - [freemium company straturgy](https://github.com/blacckbeard4/fremiumcompany)
 
+- <b>hermes ai </b>
+  - [ai based audio analyser](https://github.com/blacckbeard4/Hermes.ai/tree/main)
+
 
 
 
