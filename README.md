@@ -8,19 +8,35 @@
 
 ## 👨‍💻 About Me
 
-I'm a data-driven storyteller who thrives at the intersection of machine learning, business strategy, and real-world impact.  
-With a background in Engineering and a Master's in Business Analytics from the University of Minnesota, I specialize in turning messy data into smart decisions — whether for nonprofits, startups, or Fortune 500s.
+I'm a data-driven storyteller who thrives at the intersection of **machine learning**, **business strategy**, and **real-world impact**.
 
-🧠 3+ years of experience | 🎯 AI, ML, Causal Inference, NLP, Time Series, Computer Vision | 💼 CPG, Finance
+With 3+ years of experience working with **Fortune 100 clients** across the CPG and finance sectors, I specialize in building practical, scalable solutions — from forecasting pipelines and causal inference models to real-time AI dashboards.
+
+🧠 3+ years of experience | 🎯 AI, ML, Causal Inference, NLP, Time Series, Computer Vision | 💼 CPG, SaaS, Finance  
+🥈 Hackathon Winner | 📊 Researcher | 🥊 Gym Rat & Boxer
 
 ---
 
 ## 🔍 What I Do
 
-- **Data Science & Machine Learning:** Predictive modeling, NLP, time series, causal impact analysis
-- **Strategy & Communication:** Turn technical insights into business decisions
-- **MLOps & Pipelines:** Automate, scale, and deploy solutions across the analytics lifecycle
-- **Hackathons & Research:** 2nd Place @ MinneMUDAC 2025 | NIL research on NCAA athletes | 2nd Place @ Analytics for Good hackathon 2025
+I'm a **data detective and solution builder** — part data scientist, part business analyst, and part ML problem-solver.
+
+### 🧠 3 Years @ Tredence Analytics
+At Tredence, I delivered data science solutions for Fortune 100 companies:
+- 📉 Investigated unexpected sales dips in Thailand
+- 📈 Built ML models that forecast **equity prices** and **product demand**
+- 🔄 Designed real-time streaming **data pipelines and warehouses from scratch**
+- 🤝 Worked end-to-end: EDA → Modeling → MLOps → Business Action
+
+### 🚀 Hackathons, Research & Kaggle
+I love building under pressure — fast, creative, and clean:
+- 🥈 **2nd Place** – MinneMUDAC 2025 (Mentorship longevity prediction)
+- 🥈 **2nd Place** – Analytics for Good 2025 (Causal chatbot impact on grades)
+- 🧪 Research – Impact of NIL policies on NCAA basketball performance
+- 💻 Kaggle Competitor – Time series, NLP, and CV challenges
+
+### 💪 Outside of Work
+I enjoy **boxing**, strength training, and challenging myself both mentally and physically. I believe discipline in training mirrors discipline in execution.
 
 ---
 
@@ -36,14 +52,12 @@ With a background in Engineering and a Master's in Business Analytics from the U
 | 🏀 [Impact of NIL on NCAA Players](https://github.com/blacckbeard4/NcaaDid) | Causal analysis using DiD to understand policy impact |
 | 💰 [Freemium Customer Targeting](https://github.com/blacckbeard4/fremiumcompany) | Campaign optimization with AUC 0.77 & 219% ROI |
 
-
-
 ---
 
 ## 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/justin4)  
-- Email: just4dec@gmail.com
+- 📧 just4dec@gmail.com
 
 ---
 
