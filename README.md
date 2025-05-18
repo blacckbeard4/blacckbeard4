@@ -47,7 +47,7 @@ With a background in Engineering and a Master's in Business Analytics from the U
 
 ---
 
-## 🧠 Fun Quote
+## 🧠 Favorite Quote
 
 > "In God we trust. All others must bring data." – W. Edwards Deming
 
