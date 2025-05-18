@@ -25,7 +25,7 @@ I’m kind of a **jack-of-all-data-trades** — part data scientist, part analys
 
 ### 👨‍💻 At Tredence Analytics
 - 📉 Investigated a sudden sales crash in Thailand (and explained it!)
-- 📈 Built forecasting models for equity and product demand
+- 📈 Built and deployed forecasting models for equity and product demand
 - 🔄 Designed streaming data pipelines and warehouses — end-to-end
 - 📊 Created a Power BI dashboard with custom KPIs for C-suite stakeholders
 - 🤝 Worked directly with clients, bridging technical and business needs
