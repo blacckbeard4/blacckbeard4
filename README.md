@@ -44,7 +44,7 @@ I enjoy **boxing**, strength training, and challenging myself both mentally and 
 
 | Project | Description |
 |--------|-------------|
-| 🤝 [MinneMUDAC 2025 Winners](https://github.com/blacckbeard4/minnemudac) | Match length prediction for Big Brothers Big Sisters |
+| 🤝 [MinneMUDAC 2025 Winners](https://github.com/blacckbeard4/minnemudac) | Match length prediction for Big Brothers Big Sisters using Natural Language Processing |
 | 🧪 [Analytics For Good Institute Hackathon Winners](https://github.com/blacckbeard4/tabot_studentgradesanalysis) | Causal impact of chatbot engagement on student performance |
 | 🗣️ [HermesAI](https://github.com/blacckbeard4/Hermes.ai/tree/main) | Real-time audio streaming sentiment analysis app |
 | 🐶 [Cats vs Dogs](https://github.com/blacckbeard4/CatsnDogs) | CNN & Transfer Learning for image classification |
