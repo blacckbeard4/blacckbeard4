@@ -28,12 +28,15 @@ With a background in Engineering and a Master's in Business Analytics from the U
 
 | Project | Description |
 |--------|-------------|
+| 🤝 [MinneMUDAC 2025 Winners](https://github.com/blacckbeard4/minnemudac) | Match length prediction for Big Brothers Big Sisters |
+| 🧪 [Analytics For Good Institute Hackathon Winners](https://github.com/blacckbeard4/tabot_studentgradesanalysis) | Causal impact of chatbot engagement on student performance |
+| 🗣️ [HermesAI](https://github.com/blacckbeard4/Hermes.ai/tree/main) | Real-time audio streaming sentiment analysis app |
 | 🐶 [Cats vs Dogs](https://github.com/blacckbeard4/CatsnDogs) | CNN & Transfer Learning for image classification |
 | 📈 [Optiver Trading](https://github.com/blacckbeard4/Optiver_Trading-/tree/main) | Time-series GRU model for real-time stock movement prediction |
 | 🏀 [Impact of NIL on NCAA Players](https://github.com/blacckbeard4/NcaaDid) | Causal analysis using DiD to understand policy impact |
-| 🤝 [MinneMUDAC 2025 Winners](https://github.com/blacckbeard4/minnemudac) | Match length prediction for Big Brothers Big Sisters |
 | 💰 [Freemium Customer Targeting](https://github.com/blacckbeard4/fremiumcompany) | Campaign optimization with AUC 0.77 & 219% ROI |
-| 🗣️ [HermesAI](https://github.com/blacckbeard4/Hermes.ai/tree/main) | Real-time audio streaming sentiment analysis app |
+
+
 
 ---
 
