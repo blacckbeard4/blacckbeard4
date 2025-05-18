@@ -24,10 +24,10 @@ Now, I’m deep into my master’s in Business Analytics at the University of Mi
 I’m kind of a **jack-of-all-data-trades** — part data scientist, part analyst, part builder. Here's a quick breakdown of what I’ve been up to:
 
 ### 👨‍💻 At Tredence Analytics
-- 📉 Investigated a sudden sales crash in Thailand (and explained it!)
 - 📈 Built and deployed forecasting models for equity and product demand
 - 🔄 Designed streaming data pipelines and warehouses — end-to-end
 - 📊 Created a Power BI dashboard with custom KPIs for C-suite stakeholders
+- 📉 Investigated a sudden sales crash in Thailand (and explained it!)
 - 🤝 Worked directly with clients, bridging technical and business needs
 
 ### 🧠 Hackathons, Research & Fun Projects
