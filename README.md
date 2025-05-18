@@ -20,7 +20,7 @@ With a background in Engineering and a Master's in Business Analytics from the U
 - **Data Science & Machine Learning:** Predictive modeling, NLP, time series, causal impact analysis
 - **Strategy & Communication:** Turn technical insights into business decisions
 - **MLOps & Pipelines:** Automate, scale, and deploy solutions across the analytics lifecycle
-- **Hackathons & Research:** 2nd Place @ MinneMUDAC 2025 | NIL research on NCAA athletes | 2nd Place at AGI hackathon by University of Minnesota
+- **Hackathons & Research:** 2nd Place @ MinneMUDAC 2025 | NIL research on NCAA athletes | 2nd Place @ Analytics for Good hackathon 2025
 
 ---
 
