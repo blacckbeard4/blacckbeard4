@@ -16,6 +16,11 @@
   - [Minnemudac](https://github.com/blacckbeard4/minnemudac)
 
 
+- <b>fremium company </b>
+  - [freemium company straturgy](https://github.com/blacckbeard4/fremiumcompany)
+
+
+
 
 
 
