@@ -12,7 +12,7 @@ I'm a data-driven storyteller who thrives at the intersection of **machine learn
 
 With 3+ years of experience working with **Fortune 100 clients** across the CPG and finance sectors, I specialize in building practical, scalable solutions — from forecasting pipelines and causal inference models to real-time AI dashboards.
 
-🧠 🎯 AI, ML, Causal Inference, NLP, Time Series, Computer Vision | 💼 CPG, SaaS, Finance  
+ AI, ML, Causal Inference, NLP, Time Series, Computer Vision | 💼 CPG, Finance  
 🥈 Hackathon Winner | 📊 Researcher | 🥊 Gym Rat & Boxer
 
 ---
