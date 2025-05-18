@@ -11,7 +11,7 @@
 I'm a data-driven storyteller who thrives at the intersection of machine learning, business strategy, and real-world impact.  
 With a background in Engineering and a Master's in Business Analytics from the University of Minnesota, I specialize in turning messy data into smart decisions — whether for nonprofits, startups, or Fortune 500s.
 
-🧠 3+ years of experience | 🎯 ML, Causal Inference, NLP, Time Series | 💼 CPG, SaaS, Education, Finance
+🧠 3+ years of experience | 🎯 AI, ML, Causal Inference, NLP, Time Series, Computer Vision | 💼 CPG, Finance
 
 ---
 
