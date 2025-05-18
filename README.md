@@ -12,5 +12,10 @@
   - [Impact of NIL on NCAA players](https://github.com/blacckbeard4/NcaaDid)
 
 
+ - <b>predicting match length for big brother big sisters minnemudac) </b>
+  - [Minnemudac](https://github.com/blacckbeard4/minnemudac)
+- 
+
+
 
 
