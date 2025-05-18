@@ -21,7 +21,7 @@ With 3+ years of experience working with **Fortune 100 clients** across the CPG 
 
 I'm a **data detective and solution builder** — part data scientist, part business analyst, and part ML problem-solver.
 
-### Tredence Analytics
+### 👨‍💻 Tredence Analytics
 At Tredence, I delivered data science solutions for Fortune 100 companies:
 - 📉 Investigated unexpected sales dips in Thailand
 - 📈 Built ML models that forecast **equity prices** and **product demand**
