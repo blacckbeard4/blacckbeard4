@@ -16,6 +16,19 @@ Now, I’m deep into my master’s in Business Analytics at the University of Mi
 
 🧠 AI, ML, Causal Inference, NLP, Time Series, Computer Vision | 💼 CPG, Finance  
 🥈 Hackathon Winner | 📊 Researcher | 🥊 Boxer & Gym Bro
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🤝 [MinneMUDAC 2025 Winners](https://github.com/blacckbeard4/minnemudac) | Match length prediction for Big Brothers Big Sisters using NLP + demographics |
+| 🧪 [Analytics For Good Hackathon](https://github.com/blacckbeard4/tabot_studentgradesanalysis) | Found a causal impact of chatbot engagement on student performance |
+| 🗣️ [HermesAI](https://github.com/blacckbeard4/Hermes.ai/tree/main) | Real-time audio streaming sentiment analysis assistant |
+| 🐶 [Cats vs Dogs](https://github.com/blacckbeard4/CatsnDogs) | CNN & transfer learning for image classification |
+| 📈 [Optiver Trading](https://github.com/blacckbeard4/Optiver_Trading-/tree/main) | GRU-based time series model for predicting stock price movements |
+| 🏀 [NIL Impact on NCAA Players](https://github.com/blacckbeard4/NcaaDid) | DiD causal analysis on athlete performance pre/post NIL policy |
+| 💰 [Freemium Targeting](https://github.com/blacckbeard4/fremiumcompany) | Built a conversion model that improved campaign ROI by 219% |
 
 ---
 
@@ -38,20 +51,6 @@ I’m kind of a **jack-of-all-data-trades** — part data scientist, part analys
 
 ### 💪 When I'm Not Coding...
 You’ll probably find me in the gym or throwing punches in the boxing ring. Discipline, reps, and resilience — whether it’s weight training or training models, I love both.
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🤝 [MinneMUDAC 2025 Winners](https://github.com/blacckbeard4/minnemudac) | Match length prediction for Big Brothers Big Sisters using NLP + demographics |
-| 🧪 [Analytics For Good Hackathon](https://github.com/blacckbeard4/tabot_studentgradesanalysis) | Found a causal impact of chatbot engagement on student performance |
-| 🗣️ [HermesAI](https://github.com/blacckbeard4/Hermes.ai/tree/main) | Real-time audio streaming sentiment analysis assistant |
-| 🐶 [Cats vs Dogs](https://github.com/blacckbeard4/CatsnDogs) | CNN & transfer learning for image classification |
-| 📈 [Optiver Trading](https://github.com/blacckbeard4/Optiver_Trading-/tree/main) | GRU-based time series model for predicting stock price movements |
-| 🏀 [NIL Impact on NCAA Players](https://github.com/blacckbeard4/NcaaDid) | DiD causal analysis on athlete performance pre/post NIL policy |
-| 💰 [Freemium Targeting](https://github.com/blacckbeard4/fremiumcompany) | Built a conversion model that improved campaign ROI by 219% |
 
 ---
 
