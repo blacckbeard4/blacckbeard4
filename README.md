@@ -57,7 +57,7 @@ You’ll probably find me in the gym or throwing punches in the boxing ring. Dis
 ##  Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/justin4)  
-- 📧 just4dec@gmail.com
+-  just4dec@gmail.com
 
 ---
 
