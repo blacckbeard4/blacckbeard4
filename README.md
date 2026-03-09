@@ -22,6 +22,7 @@ Now, I’m deep into my master’s in Business Analytics at the University of Mi
 
 | Project | Description |
 |--------|-------------|
+| 🎯 [Project SPEAR](https://github.com/blacckbeard4/Project-SPEAR) | Autonomous AI client acquisition engine using LangGraph, ChromaDB & GPT-4.1 — replaces a 5-person marketing team |
 | 🤝 [MinneMUDAC 2025 Winners](https://github.com/blacckbeard4/minnemudac) | Match length prediction for Big Brothers Big Sisters using NLP + demographics |
 | 🧪 [Analytics For Good Hackathon](https://github.com/blacckbeard4/tabot_studentgradesanalysis) | Found a causal impact of chatbot engagement on student performance |
 | 🗣️ [HermesAI](https://github.com/blacckbeard4/Hermes.ai/tree/main) | Real-time audio streaming sentiment analysis assistant |
